@@ -1,5 +1,5 @@
 # DSP_AT3
-Repository for DSP Assignment 3. Reproducibility and risk audit
+### Repository for DSP Assignment 3. Reproducibility and risk audit
 
 In the terminal execute the following commands to set up the project space and environment  
 $ git clone https://github.com/Lhogeshwaran/DSP_AT3.git  
