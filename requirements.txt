@@ -58,7 +58,7 @@ networkx==2.3
 nltk==3.4.5
 notebook==6.0.1
 numpy==1.17.0
-opencv-contrib-python==4.1.0.25
+opencv-contrib-python==4.2.0.32
 packaging==19.2
 pandas==0.25.1
 pandocfilters==1.4.2
